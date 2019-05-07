@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 5699,
-  "expoServerNgrokUrl": "https://cx-zt9.anonymous.animation.exp.direct",
-  "packagerNgrokUrl": "https://packager.cx-zt9.anonymous.animation.exp.direct",
-  "ngrokPid": 5721
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
